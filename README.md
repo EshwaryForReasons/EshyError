@@ -3,6 +3,8 @@ A simple header-only error handling library. A replacement for std::exceptions.
 
 ## Usage
 
+The library is header only! Simply copy the header into the project.
+
 ### C example:
 
 ```
